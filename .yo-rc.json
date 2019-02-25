@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "org.jhipster.health",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.1",
+        "applicationType": "monolith",
+        "baseName": "TwentyOnePoints",
+        "packageName": "org.jhipster.health",
+        "packageFolder": "org/jhipster/health",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NmU3NDNkODdjNGQ0NGQzZGEyZmEyZTEzYmU5MTEyMGMzZjUwMTUxNjIyNGZmYTk0NTVlMzk5MzcwNTMwMjI0OTQxNTI5Njk5NzdlMDZjYjJiNDFiMTEyOTEyNmY2ZThiYWE2N2Y4Y2Q4OTRjYzUwMTQzODVlNTBmNGYyODVhYWM=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling", "protractor"],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "ro"]
+    }
+}
